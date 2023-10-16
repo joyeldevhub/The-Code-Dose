@@ -1,4 +1,4 @@
-The Table Tag In HTML
+# HTML Tables Made Easy: Organize Data Like a Pro
 
 # Introduction:  
 
