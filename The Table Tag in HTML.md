@@ -1,3 +1,5 @@
+The Table Tag In HTML
+
 # Introduction:  
 
 HTML, which stands for HyperText Markup Language, is the backbone of the web. It's a markup language that structures the contact on web pages, making it readable for browsers and humans.
