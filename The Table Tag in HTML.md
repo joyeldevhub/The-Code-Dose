@@ -6,6 +6,7 @@ HTML, which stands for HyperText Markup Language, is the backbone of the web. It
 
 HTML tags are at the heart of HTML, which are like labels that tell the browser how to display the content. These tags are enclosed in angle brackets, like <tag>. Each tag serves a specific purpose, such as defining headings, paragraphs, links, etc. Understanding HTML tags is the key to creating web content, and in this guide, we'll take a closer look at through <table> tags work. Let's get started! 🚀
 
+<br/><br/>
 
 # The `<table>` Tag in HTML
 
