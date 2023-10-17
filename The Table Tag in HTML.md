@@ -189,13 +189,13 @@ HTML tables can be further customized using various attributes. Some common attr
 ### Styling with CSS
 You can enhance the appearance of your tables by applying CSS styles. CSS (Cascading Style Sheets) provides a powerful way to customize the look and feel of your tables. Here are some CSS properties you can use to style your tables:
 
-font-family: Define the font family for text within table cells.
-color: Set the text color in your table.
-background-color: Customize the background color of table cells.
-border: Control the border style, color, and width of your table.
-padding: Adjust the padding inside table cells to create space around the content.
-text-align: Align text within table cells (e.g., left, center, right).
-text-transform: Change the capitalization of text (e.g., uppercase, lowercase) in table headers or data cells.
+**font-family:** Define the font family for text within table cells.<br/>
+**color:** Set the text color in your table.<br/>
+**background-color:** Customize the background color of table cells.<br/>
+**border:** Control the border style, color, and width of your table.<br/>
+**padding:** Adjust the padding inside table cells to create space around the content.<br/>
+**text-align:** Align text within table cells (e.g., left, center, right).<br/>
+**text-transform:** Change the capitalization of text (e.g., uppercase, lowercase) in table headers or data cells.<br/>
 
 By applying CSS styles, you can create visually appealing tables that match your website's design and branding.
 
@@ -219,9 +219,9 @@ Keep your tables simple, use appropriate headers, and avoid overly complex layou
 ### Real World Examples
 Provide practical examples of how tables are commonly used on websites. Real-world examples can include:
 
-Pricing tables: Showcase different pricing tiers for products or services.
-Schedules: Display event schedules, timetables, or calendars in a tabular format.
-Product listings: Present a list of products, their descriptions, prices, and availability.
+**Pricing tables:** Showcase different pricing tiers for products or services.<br/>
+**Schedules:** Display event schedules, timetables, or calendars in a tabular format.<br/>
+**Product listings:** Present a list of products, their descriptions, prices, and availability.<br/>
 
 By illustrating these common use cases, readers can better understand how tables can be applied in real web development scenarios.
 
@@ -229,9 +229,9 @@ By illustrating these common use cases, readers can better understand how tables
 ### Cross-browser Compatibility
 Test your tables for cross-browser compatibility to ensure they display correctly in various web browsers. Browser compatibility is vital to ensure that your tables function as intended on different platforms. Here's how you can approach cross-browser compatibility:
 
-##### Test in multiple browsers: Use various web browsers (e.g., Chrome, Firefox, Safari, Edge) to verify that your tables render consistently.
-##### Check older browser versions: Ensure that your tables work in older browser versions, especially if your target audience may use them.
-##### Use browser testing tools: Utilize browser testing tools and services to automate cross-browser testing and identify compatibility issues.
+**Test in multiple browsers:** Use various web browsers (e.g., Chrome, Firefox, Safari, Edge) to verify that your tables render consistently.<br/>
+**Check older browser versions:** Ensure that your tables work in older browser versions, especially if your target audience may use them.<br/>
+**Use browser testing tools:** Utilize browser testing tools and services to automate cross-browser testing and identify compatibility issues.<br/>
 
 Ensuring cross-browser compatibility guarantees that your tables are accessible to a wide range of users.
 
@@ -239,10 +239,11 @@ Ensuring cross-browser compatibility guarantees that your tables are accessible 
 ### Interactive Tables
 Consider adding interactivity to your tables using JavaScript. You can implement features like sorting, filtering, and searching to enhance the user experience. Interactive tables provide dynamic and user-friendly data exploration. Here are some interactive table features you can implement:
 
-##### Sorting: Allow users to sort table rows based on specific columns, making it easier to find relevant information.
-##### Filtering: Provide filters that enable users to narrow down the data displayed in the table, reducing clutter and improving usability.
-##### Searching: Implement a search bar that lets users search for specific data within the table, enhancing data retrieval.
-##### Interactive tables can significantly improve user engagement and make data exploration more efficient.
+**Sorting:** Allow users to sort table rows based on specific columns, making it easier to find relevant information.<br/>
+**Filtering:** Provide filters that enable users to narrow down the data displayed in the table, reducing clutter and improving usability.<br/>
+**Searching:** Implement a search bar that lets users search for specific data within the table, enhancing data retrieval.<br/>
+
+Interactive tables can significantly improve user engagement and make data exploration more efficient.
 
 # Conclusion:    
     
