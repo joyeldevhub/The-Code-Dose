@@ -180,10 +180,10 @@ Now, let's explore some additional elements and concepts related to HTML tables 
 ### Attributes
 HTML tables can be further customized using various attributes. Some common attributes include:
 
-border: Defines the border width around the table.
-cellpadding: Sets the space between cell content and cell borders.
-cellspacing: Specifies the space between table cells.
-align: Aligns the table within its containing element.
+**border:** Defines the border width around the table.<br/>
+**cellpadding:** Sets the space between cell content and cell borders.<br/>
+**cellspacing:** Specifies the space between table cells.<br/>
+**align:** Aligns the table within its containing element.
 
 
 ### Styling with CSS
