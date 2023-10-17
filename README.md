@@ -1,5 +1,6 @@
 # The-Code-Dose
-Article Assignment
-Name: Alex Joyel Raj
+
+#### Article Assignment<br/>
+Name: Alex Joyel Raj<br/>
 Email: alexjoyelraj23@gmail.com
 
