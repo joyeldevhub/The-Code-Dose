@@ -12,6 +12,7 @@ HTML tags are at the heart of HTML, which are like labels that tell the browser 
 
 Tables are a fundamental part of displaying structured data on the web, and understanding how to create them using HTML is a valuable skill. In this article, we'll explore the `<table>` tag and its associated elements, providing you with the knowledge to organize and display tabular data effectively.
 
+<br/>
 
 ## `<table>` tag
 
@@ -28,6 +29,7 @@ The `<table>` tag serves as the foundation for creating tables in HTML. It acts 
 
 ```
 
+<br/><br/>
 
 ## Sections of a Table
     
@@ -50,6 +52,7 @@ The `<thead>` section is reserved for the table header. It usually contains colu
 </table>
 ```
 
+<br/>
 
 ### 2. `<tbody>`: The Table Body
 
@@ -69,6 +72,7 @@ The `<tbody>` section is where the majority of your data is placed. It's where y
 </table>
 ```
 
+<br/>
 
 ### 3. `<tfoot>`: The Table Footer
 
@@ -86,6 +90,7 @@ The `<tfoot>` section is less commonly used but is important for semantic reason
 </table>
 ```
 
+<br/><br/>
 
 ## Rows and Cells
 
@@ -102,6 +107,7 @@ Rows are created using the `<tr>` tag. Each `<tr>` can contain multiple cells, e
 </tr>
 ```
 
+<br/><br/>
 
 ## Table Cells
 
@@ -115,6 +121,7 @@ The `<th>` element is used for table headers, such as column or row headings. It
 <th>Column Title</th>
 ```
 
+<br/>
 
 ### 2. `<td>`: Table Data Cells
 
@@ -124,6 +131,7 @@ The `<td>` element is for actual data in your table. It is where you place your 
 <td>Your data here</td>
 ```
 
+<br/><br/>
 
 ## Spanning Columns or Rows
 
@@ -134,7 +142,7 @@ In cases where you want a cell to span across multiple columns or rows, you can 
 <td rowspan="2">I span two rows!</td>
 ```
 
-
+<br/>
 ### Spanning Columns with `colspan`
 
 `colspan` is used to make a cell stretch over multiple columns. It's like saying, "Hey, this cell should take up more space horizontally."
@@ -146,6 +154,7 @@ For example, if you want a cell to span two columns, you'd do it like this:
 ```
 This cell will occupy the space of two adjacent cells in the same row.
 
+<br/>
 
 ### Spanning Rows with `rowspan`
 
@@ -159,6 +168,7 @@ Here's how you'd use it to span two rows:
 
 This cell will extend down to cover two rows in the table.
 
+<br/><br/>
 
 ## `<colgroup>` and `<col>`: Applying styles to columns
 
@@ -174,6 +184,7 @@ To apply styles to entire columns without affecting the rows, you can use the `<
 </table>
 ```
 
+<br/><br/>
 
 ## Additional Elemnts:
 Now, let's explore some additional elements and concepts related to HTML tables to make your tables more versatile and accessible:
@@ -186,6 +197,7 @@ HTML tables can be further customized using various attributes. Some common attr
 **cellspacing:** Specifies the space between table cells.<br/>
 **align:** Aligns the table within its containing element.
 
+<br/>
 
 ### Styling with CSS
 You can enhance the appearance of your tables by applying CSS styles. CSS (Cascading Style Sheets) provides a powerful way to customize the look and feel of your tables. Here are some CSS properties you can use to style your tables:
@@ -200,22 +212,27 @@ You can enhance the appearance of your tables by applying CSS styles. CSS (Casca
 
 By applying CSS styles, you can create visually appealing tables that match your website's design and branding.
 
+<br/>
 
 ### Accessibility
 Enhance the accessibility of your tables using attributes like scope, headers, and id to make your tables more screen-reader friendly.
 
+<br/>
 
 ### Responsive Tables
 In today's mobile-centric world, it's crucial to make your tables responsive. Consider techniques like hiding columns or converting tables to lists for smaller screens.
 
+<br/>
 
 ### Datatypes
 HTML5 introduced new attributes for specifying data types within tables, such as datetime, number, and currency. These attributes improve data representation and make it more semantically meaningful.
 
+<br/>
 
 ### Best Practices
 Keep your tables simple, use appropriate headers, and avoid overly complex layouts. Following best practices ensures that your tables are user-friendly and easy to understand.
 
+<br/>
 
 ### Real World Examples
 Provide practical examples of how tables are commonly used on websites. Real-world examples can include:
@@ -226,6 +243,7 @@ Provide practical examples of how tables are commonly used on websites. Real-wor
 
 By illustrating these common use cases, readers can better understand how tables can be applied in real web development scenarios.
 
+<br/>
 
 ### Cross-browser Compatibility
 Test your tables for cross-browser compatibility to ensure they display correctly in various web browsers. Browser compatibility is vital to ensure that your tables function as intended on different platforms. Here's how you can approach cross-browser compatibility:
@@ -236,6 +254,7 @@ Test your tables for cross-browser compatibility to ensure they display correctl
 
 Ensuring cross-browser compatibility guarantees that your tables are accessible to a wide range of users.
 
+<br/>
 
 ### Interactive Tables
 Consider adding interactivity to your tables using JavaScript. You can implement features like sorting, filtering, and searching to enhance the user experience. Interactive tables provide dynamic and user-friendly data exploration. Here are some interactive table features you can implement:
@@ -245,6 +264,8 @@ Consider adding interactivity to your tables using JavaScript. You can implement
 **Searching:** Implement a search bar that lets users search for specific data within the table, enhancing data retrieval.<br/>
 
 Interactive tables can significantly improve user engagement and make data exploration more efficient.
+
+<br/><br/>
 
 # Conclusion:    
     
